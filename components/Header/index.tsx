@@ -76,7 +76,7 @@ export default function Header() {
         <div className="flex flex-row justify-between px-[38px] py-[16px] items-center">
           <div className="flex justify-center cursor-pointer">
             <Link href="/">
-              <Image src="/images/logo.png" alt="vefi_logo" width={30} height={30} />
+              <Image src="/images/vefi.svg" alt="vefi_logo" width={30} height={30} />
             </Link>
           </div>
           <div className="md:flex flex-row justify-between hidden">
