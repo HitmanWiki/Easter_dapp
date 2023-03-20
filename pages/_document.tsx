@@ -23,11 +23,11 @@ export default class CustomDocument extends Document {
           />
           <link rel="icon" href="/images/logo.ico" />
           <link rel="manifest" href="/manifest.json" />
-          <meta name="description" content="The Vefi DApps is a product of the Vefi Ecosystem that houses commonly used decentralized platforms." />
+          <meta name="description" content="The Easter Shib DApp is a Experiment in a  decentralized platforms." />
           <meta name="robots" content="index, follow" />
           <meta
             name="keywords"
-            content="dapps, vefi, dex, launchpad, multisig, staking pools, stake, bitgert, binance, brise, bsc, omax, gatechain, multichain"
+            content="Easter Shib"
           />
         </Head>
         <body>
