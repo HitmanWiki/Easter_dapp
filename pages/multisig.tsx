@@ -38,7 +38,7 @@ export default function MultiSig() {
   return (
     <>
       <Head>
-        <title>Vefi DApps | Multi-Signatory Wallets</title>
+        <title>Easter Shib | Multi-Signatory Wallets</title>
       </Head>
       <div className="flex flex-col md:flex-row w-screen backdrop-opacity-10 backdrop-invert bg-[#05325B]/70 h-full overflow-auto hidden-scrollbar">
         <div className="w-full md:w-80 py-10 px-5 md:h-full bg-[#161525] text-white flex flex-col gap-2 md:gap-4">

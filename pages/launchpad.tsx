@@ -48,7 +48,7 @@ export default function Launchpad() {
   return (
     <>
       <Head>
-        <title>Vefi DApps | Launchpad</title>
+        <title>Easter Shib | Launchpad</title>
       </Head>
       {/* <div className="flex justify-center items-center w-full my-[100px]">
         <div className="flex flex-col-reverse justify-center items-center gap-6">
